@@ -1,0 +1,46 @@
+.card__image {
+    height: 600px;
+    width: 1440px;
+    background-color: hsl(212, 45%, 89%);
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  
+  #qr {
+    height: 400px;
+    width: 300px;
+    background-color: white;
+    border-radius: 20px;
+    padding-bottom: 50px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  }
+  
+  img {
+    height: 60%;
+    width: 80%;
+    border-radius: 20px;
+    margin: 25px;
+  }
+  
+  .text {
+    font-size: 15px;
+    font-family: "Outfit", sans-serif;
+    text-align: center;
+    padding: 0 20px; 
+    font-weight: 700;
+  }
+  
+  p {
+    font-weight: 500;
+    margin-top: 20px; 
+    font-size: 14px;
+    opacity: 0.7;
+  }
